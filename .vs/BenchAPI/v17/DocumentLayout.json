@@ -3,10 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\JoJanssen\\source\\repos\\BenchAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A5C0968-9E25-4B1D-83D8-F43602A543C6}|..\\BlazorAppFluentUI\\BlazorAppFluentUI.csproj|c:\\users\\jojanssen\\source\\repos\\blazorappfluentui\\services\\cafeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A5C0968-9E25-4B1D-83D8-F43602A543C6}|..\\BlazorAppFluentUI\\BlazorAppFluentUI.csproj|c:\\users\\jojanssen\\source\\repos\\blazorappfluentui\\pages\\cafes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A5C0968-9E25-4B1D-83D8-F43602A543C6}|..\\BlazorAppFluentUI\\BlazorAppFluentUI.csproj|c:\\users\\jojanssen\\source\\repos\\blazorappfluentui\\pages\\cafes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9A5C0968-9E25-4B1D-83D8-F43602A543C6}|..\\BlazorAppFluentUI\\BlazorAppFluentUI.csproj|c:\\users\\jojanssen\\source\\repos\\blazorappfluentui\\pages\\cafedetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5C0968-9E25-4B1D-83D8-F43602A543C6}|..\\BlazorAppFluentUI\\BlazorAppFluentUI.csproj|c:\\users\\jojanssen\\source\\repos\\blazorappfluentui\\services\\cafeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A5C0968-9E25-4B1D-83D8-F43602A543C6}|..\\BlazorAppFluentUI\\BlazorAppFluentUI.csproj|c:\\users\\jojanssen\\source\\repos\\blazorappfluentui\\services\\icafeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -19,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,12 +41,34 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CafeDetail.razor",
+              "DocumentMoniker": "C:\\Users\\JoJanssen\\source\\repos\\BlazorAppFluentUI\\Pages\\CafeDetail.razor",
+              "RelativeDocumentMoniker": "..\\BlazorAppFluentUI\\Pages\\CafeDetail.razor",
+              "ToolTip": "C:\\Users\\JoJanssen\\source\\repos\\BlazorAppFluentUI\\Pages\\CafeDetail.razor",
+              "RelativeToolTip": "..\\BlazorAppFluentUI\\Pages\\CafeDetail.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T15:32:37.615Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Cafes.razor",
+              "DocumentMoniker": "C:\\Users\\JoJanssen\\source\\repos\\BlazorAppFluentUI\\Pages\\Cafes.razor",
+              "RelativeDocumentMoniker": "..\\BlazorAppFluentUI\\Pages\\Cafes.razor",
+              "ToolTip": "C:\\Users\\JoJanssen\\source\\repos\\BlazorAppFluentUI\\Pages\\Cafes.razor",
+              "RelativeToolTip": "..\\BlazorAppFluentUI\\Pages\\Cafes.razor",
+              "ViewState": "AQIAACIAAAAAAAAAAAAwwEEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T12:20:58.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ICafeService.cs",
               "DocumentMoniker": "C:\\Users\\JoJanssen\\source\\repos\\BlazorAppFluentUI\\Services\\ICafeService.cs",
               "RelativeDocumentMoniker": "..\\BlazorAppFluentUI\\Services\\ICafeService.cs",
@@ -55,28 +80,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CafeService.cs",
               "DocumentMoniker": "C:\\Users\\JoJanssen\\source\\repos\\BlazorAppFluentUI\\Services\\CafeService.cs",
               "RelativeDocumentMoniker": "..\\BlazorAppFluentUI\\Services\\CafeService.cs",
               "ToolTip": "C:\\Users\\JoJanssen\\source\\repos\\BlazorAppFluentUI\\Services\\CafeService.cs",
               "RelativeToolTip": "..\\BlazorAppFluentUI\\Services\\CafeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-22T12:37:05.911Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cafes.razor",
-              "DocumentMoniker": "C:\\Users\\JoJanssen\\source\\repos\\BlazorAppFluentUI\\Pages\\Cafes.razor",
-              "RelativeDocumentMoniker": "..\\BlazorAppFluentUI\\Pages\\Cafes.razor",
-              "ToolTip": "C:\\Users\\JoJanssen\\source\\repos\\BlazorAppFluentUI\\Pages\\Cafes.razor",
-              "RelativeToolTip": "..\\BlazorAppFluentUI\\Pages\\Cafes.razor",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-22T12:20:58.063Z"
             }
           ]
         }

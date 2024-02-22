@@ -152,3 +152,4 @@ C:\Users\JoJanssen\source\repos\BenchAPI\obj\Debug\net8.0\BenchAPI.pdb
 C:\Users\JoJanssen\source\repos\BenchAPI\obj\Debug\net8.0\BenchAPI.genruntimeconfig.cache
 C:\Users\JoJanssen\source\repos\BenchAPI\obj\Debug\net8.0\ref\BenchAPI.dll
 C:\Users\JoJanssen\source\repos\BenchAPI\obj\Debug\net8.0\BenchAPI.csproj.Up2Date
+C:\Users\JoJanssen\source\repos\BenchAPI\obj\Debug\net8.0\BenchAPI.sourcelink.json

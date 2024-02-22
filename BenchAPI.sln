@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperDAL", "..\DapperDAL\D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "..\TestProject1\TestProject1.csproj", "{04F0C100-119F-486D-BC82-54CD7B37BDC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppFluentUI", "..\BlazorAppFluentUI\BlazorAppFluentUI.csproj", "{9A5C0968-9E25-4B1D-83D8-F43602A543C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAppFluentUI", "..\BlazorAppFluentUI\BlazorAppFluentUI.csproj", "{9A5C0968-9E25-4B1D-83D8-F43602A543C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
