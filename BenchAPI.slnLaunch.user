@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "BenchAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "..\\BlazorAppFluentUI\\BlazorAppFluentUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
